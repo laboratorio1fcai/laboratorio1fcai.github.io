@@ -1,0 +1,7 @@
+reparar botón   "back to top"
+
+corregir barra de navegación: logo no es parte de la navegación
+
+vista desde dispositivo móvil:
+  color de barra de navegación
+  barra que no te sigue cuando bajás
